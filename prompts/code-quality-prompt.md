@@ -1,0 +1,1 @@
+When you complete a task, reflect on it and check what you have written, if it makes sense, if it's missing something, if it was the right approach in light of the what's still ahead of what was already done. Take your time for each task to think it through.
