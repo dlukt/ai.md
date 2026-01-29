@@ -26,6 +26,6 @@ Each Milestone and Task should have a [ ] and the plan should have a note about 
 1. Implement an unimplemented Milestone
 2. run `opencode run --command review-uncommited --model github-copilot/gpt-5.2-codex` with a 1 hour timeout
 3. if no issues are found continue. if issues are found, address the issues and goto 2. until no issues / the review passes
-4. [x] completed tasks
+4. do [x] completed tasks
 5. create a git commit and push
 6. goto 1.
