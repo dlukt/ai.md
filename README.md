@@ -23,6 +23,8 @@ Create PRD.md, SPEC.md and PLAN.md
 The PLAN.md should have Milestones and Tasks and TDD should be used.
 Each Milestone and Task should have a [ ] and the plan should have a note about the need to [x] completed Milestones and Tasks.
 
+Read @PRD.md @SPEC.md @PLAN.md and please run the following implementation and review loop until all milestones are implemented
+
 1. Implement an unimplemented Milestone
 2. run `opencode run --command review-uncommited --model github-copilot/gpt-5.2-codex` with a 1 hour timeout
 3. if no issues are found continue. if issues are found, address the issues and goto 2. until no issues / the review passes
