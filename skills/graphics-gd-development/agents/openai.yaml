@@ -1,0 +1,4 @@
+interface:
+  display_name: "graphics.gd Development"
+  short_description: "Build and debug graphics.gd Go projects"
+  default_prompt: "Use $graphics-gd-development to implement or debug this graphics.gd task with startup, classdb, and memory-safety patterns."
